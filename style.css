@@ -1,0 +1,15 @@
+body {
+background-color: #000000;
+font-family: Arial, sans-serif;
+color:rgb(248, 170, 0);
+}
+
+.Harimau {
+width: 300px;
+margin: 50px auto;
+padding: 20px;
+background-color: #d1ff03;
+border-radius: 15px;
+box-shadow: 15px 15px 15px rgba(0, 0, 0, 0.1);
+text-align: center;
+}
